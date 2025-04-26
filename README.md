@@ -14,7 +14,7 @@ Built using **Google Looker Studio**.
 - Top-selling countries analysis
 
 ## 📎 Live Dashboard Link:
-https://lookerstudio.google.com/s/nv94SUj41Zs
+https://lookerstudio.google.com/s/ru8ItGnHQ48
 
 
 ---
